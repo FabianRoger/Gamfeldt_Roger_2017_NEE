@@ -7,6 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+[![DOI](https://zenodo.org/badge/87818219.svg)](https://zenodo.org/badge/latestdoi/87818219)
+
 ### Multifunc_simulations_functions.R
 In [this script](Multifunc_simulations_functions.R) we define the functions that we use for the simulations in the scripts below. The functions are described in detail in this script. All other scripts load this script and won't run without it. 
 
